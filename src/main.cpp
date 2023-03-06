@@ -1,7 +1,6 @@
 #include <cstdio>
 
-#include <glad/glad.h>
-#include <GLFW/glfw3.h>
+#include "gfx/gfx.h"
 
 #include "gfx/window.hpp"
 #include "gfx/shader.hpp"
